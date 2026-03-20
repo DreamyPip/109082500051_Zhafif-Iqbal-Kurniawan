@@ -7,7 +7,7 @@ func main() {
 		wrna1, wrna2, wrna3, wrna4 string
 		temp                       bool
 	)
-	fmt.Println("Urutkan wrna sesuai rules")
+	fmt.Println("Urutkan warna sesuai rules")
 	temp = true
 	x := 1
 	for x <= 5 {
