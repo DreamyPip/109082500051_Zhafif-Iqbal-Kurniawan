@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 5</h1>
+# <h1 align="center">Laporan Praktikum Modul 9</h1>
 <p align="center">[Zhafif Iqbal Kurniawan] - [109082500051]</p>
 
 ## Unguided
@@ -307,7 +307,8 @@ func main() {
 <p>Program kemudian memanggil fungsi didalam untuk lingkaran pertama dan kedua, lalu menyimpan hasilnya ke variabel cek1 dan cek2. Program masuk ke logika percabangan: jika cek1 dan cek2 keduanya true, maka titik berada di dalam lingkaran 1 dan 2. Jika hanya cek1 yang true, titik di dalam lingkaran 1 saja. Jika hanya cek2 yang true, titik di dalam lingkaran 2 saja. Jika keduanya false, titik di luar kedua lingkaran. Hasil pengecekan kemudian dicetak ke layar sesuai kondisi yang terpenuhi.</p>
 
 ##### Output
-<img width="1920" height="1080" alt="Soal 1" src="https://github.com/user-attachments/assets/ac10fa89-d47d-401a-a63e-3112942adcbb" />
+<img width="1920" height="1080" alt="Soal 1" src="https://github.com/user-attachments/assets/330cb1d6-329b-40a5-845b-76284b58102c" />
+
 
 
 [penjelasan]
@@ -385,7 +386,8 @@ func main() {
 <p>Terakhir, program membaca nilai cariBilangan, lalu menghitung berapa kali bilangan tersebut muncul dalam array (frekuensi) dengan melakukan perulangan dan pencocokan nilai. Hasil frekuensi ditampilkan di layar.</p>
 
 ##### Output
-<img width="1920" height="1080" alt="Soal 2" src="https://github.com/user-attachments/assets/0f36fd4b-7849-4cd2-bfa6-f17def109ac2" />
+<img width="1920" height="1080" alt="Soal 2" src="https://github.com/user-attachments/assets/ba57180c-b246-4116-acd9-50ffd923624a" />
+
 
 
 [penjelasan]
@@ -446,7 +448,8 @@ func main() {
 <p>Setelah perulangan berhenti (karena ada input negatif), program menampilkan semua hasil pertandingan menggunakan perulangan for. Setiap hasil ditampilkan dengan format "Hasil ke-j : pemenang", lalu di akhir program menampilkan teks "Pertandingan selesai".</p>
 
 ##### Output
-<img width="1920" height="1080" alt="Soal 3" src="https://github.com/user-attachments/assets/87bdc9bf-546b-4d13-add4-d49d42b8f19f" />
+<img width="1920" height="1080" alt="Soal 3" src="https://github.com/user-attachments/assets/4d3ef17e-721c-43eb-9f09-8a5a1ad4b4d1" />
+
 
 [penjelasan]
 <h2>Soal 4</h2>
@@ -542,5 +545,6 @@ func main() {
 <p>Setelah dibalik, program memanggil fungsi tampil(data, n) untuk menampilkan isi array yang sudah dibalik. Terakhir, program menampilkan hasil pengecekan palindrom (true jika palindrom, false jika tidak) dengan format %v.</p>
 
 ##### Output
-<img width="1920" height="1080" alt="Soal 4" src="https://github.com/user-attachments/assets/affa918c-cffb-4ef9-97d4-fffc6e78aa5c" />
+<img width="1920" height="1080" alt="Soal 4" src="https://github.com/user-attachments/assets/abe0beab-a25e-462b-9863-cc94bb630f33" />
+
 
