@@ -189,7 +189,6 @@ func main() {
 [penjelasan]
 <h2>Soal 3</h2>
 <br>
-Penjelasan Program (Pengecekan Titik Koordinat Terhadap Lingkaran)
 <p>package main : ini adalah paket utama tempat kode dijalankan</p>
 <p>import "fmt", "math": Perintah ini mengimpor dua paket, yaitu fmt untuk operasi input/output terminal dan math untuk melakukan operasi matematika tingkat lanjut seperti perhitungan akar kuadrat</p>
 <p>func : kata kunci untuk membuat fungsi atau sub-program terpisah</p>
