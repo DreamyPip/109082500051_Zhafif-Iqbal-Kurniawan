@@ -123,8 +123,6 @@ func main() {
 
 ```
 
-```
-
 [penjelasan]
 <h2>Soal 1</h2>
 <br>
