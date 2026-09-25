@@ -300,14 +300,13 @@ int main() {
 
 ##### Output 1
 
-![Screenshot Output Unguided 1_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+<img width="1658" height="215" alt="Soal1_1" src="https://github.com/user-attachments/assets/cee92872-47d6-4a48-b116-8c004efe7897" />
 
-contoh :
-![Screenshot Output Unguided 1_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided1-1.png)
 
 ##### Output 2
 
-![Screenshot Output Unguided 1_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+<img width="1728" height="203" alt="Soal1_2" src="https://github.com/user-attachments/assets/3aed382c-65f2-43b0-8ae5-2d48763ef21f" />
+
 
 Kode ini berfungsi sebagai kalkulator sederhana yang dapat memproses angka desimal menggunakan tipe data float. Awalnya, program meminta kita memasukkan dua buah angka yang akan disimpan ke dalam variabel b1 dan b2. Setelah kedua angka tersebut diterima, program langsung menjalankan empat operasi aritmatika dasar secara berurutan, yaitu penjumlahan, pengurangan, perkalian, dan pembagian. Setiap hasil perhitungan tersebut disimpan secara bergantian ke dalam satu variabel bernama total untuk kemudian dicetak ke layar satu per satu.
 
@@ -358,14 +357,13 @@ int main() {
 
 ##### Output 1
 
-![Screenshot Output Unguided 2_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+<img width="1721" height="200" alt="Soal2_1" src="https://github.com/user-attachments/assets/dfea7550-03c7-4a79-98d9-8f284a32760f" />
 
-contoh :
-![Screenshot Output Unguided 2_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided2-1.png)
 
 ##### Output 2
 
-![Screenshot Output Unguided 2_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+<img width="1720" height="191" alt="Soal2_2" src="https://github.com/user-attachments/assets/01c4bbda-388b-4e28-bc3e-943854990d49" />
+
 
 Kode ini berfungsi untuk mengonversi angka dari 0 hingga 100 menjadi teks ejaan. Program menyiapkan dua buah array untuk menyimpan daftar kosakata angka dasar. Setelah pengguna memasukkan angka, program akan mengecek apakah nilainya berada dalam rentang yang diizinkan. Jika sesuai, program menggunakan serangkaian struktur percabangan untuk menerjemahkan angka tersebut berdasarkan kelompok nilainya. Angka 0 hingga 11 akan langsung mengambil teks dari array, angka belasan diformat menggunakan operasi sisa bagi yang ditambah kata belas, dan angka puluhan dihitung melalui kombinasi hasil pembagian untuk memanggil kata puluh serta operasi sisa bagi untuk memanggil angka satuannya. Khusus untuk angka 100, program akan langsung mencetaknya sebagai seratus.
 
@@ -410,14 +408,13 @@ int main() {
 
 ##### Output 1
 
-![Screenshot Output Unguided 3_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+<img width="1732" height="208" alt="Soal3_1" src="https://github.com/user-attachments/assets/f8cbe46d-5b4e-47c8-b26a-a679edd7acc3" />
 
-contoh :
-![Screenshot Output Unguided 3_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided3-1.png)
 
 ##### Output 2
 
-![Screenshot Output Unguided 3_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+<img width="1717" height="366" alt="Soal3_2" src="https://github.com/user-attachments/assets/26bf1c66-ae02-4d81-9f06-fe14e6884af2" />
+
 
 Kode ini berfungsi untuk mencetak pola angka dan simbol berbentuk segitiga terbalik yang simetris berdasarkan angka yang dimasukkan oleh pengguna. Program akan meminta sebuah angka batas awal, lalu menjalankan perulangan for utama yang menghitung mundur untuk mengatur perpindahan baris. Di dalam perulangan utama tersebut, terdapat tiga perulangan for tambahan yang bekerja secara berurutan, yaitu untuk mencetak spasi kosong agar letak karakter semakin menjorok ke tengah, mencetak deret angka yang menurun ke arah pusat, menampilkan simbol bintang sebagai titik tengah, dan diakhiri dengan mencetak deret angka yang menaik ke sisi kanan. Kombinasi bersarang dari perulangan ini secara otomatis menyusun barisan angka yang semakin menyempit pada setiap barisnya hingga mengerucut sempurna pada satu baris terbawah.
 
