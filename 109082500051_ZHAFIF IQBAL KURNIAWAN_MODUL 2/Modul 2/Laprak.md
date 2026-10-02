@@ -277,10 +277,12 @@ int main() {
 
 ##### Output 1
 
+<img width="331" height="881" alt="Soal1_1" src="https://github.com/user-attachments/assets/7b49325b-c247-4a20-b23c-c16b982dd6b0" />
 
 
 ##### Output 2
 
+<img width="327" height="885" alt="Soal1_2" src="https://github.com/user-attachments/assets/a19032ba-08ad-4743-a037-615a0510e7ac" />
 
 
 Program ini menggunakan array dua dimensi berukuran 3x3 dan dipisah ke dalam beberapa fungsi modular. Operasi penjumlahan dan pengurangan dilakukan dengan mengoperasikan elemen pada indeks pasangan baris dan kolom yang bersesuaian, sedangkan operasi perkalian menggunakan perulangan tiga tingkat untuk menghitung hasil kali skalar antara baris matriks pertama dan kolom matriks kedua.
@@ -324,10 +326,12 @@ int main() {
 
 ##### Output 1
 
+<img width="1760" height="197" alt="Soal2_1" src="https://github.com/user-attachments/assets/92efd082-f0a2-4bab-b0bd-f3db3a6b75e3" />
 
 
 ##### Output 2
 
+<img width="1738" height="202" alt="Soal2_2" src="https://github.com/user-attachments/assets/15751a9b-1ea9-461c-a5b8-10fe8dd3d93b" />
 
 
 Kode ini mendemonstrasikan penukaran nilai tiga variabel secara sirkuler menggunakan dua mekanisme pemanggilan fungsi. Fungsi tukarReference3 memanfaatkan pass by reference dengan operator & untuk mengubah nilai asli variabel langsung pada lokasi memorinya. Fungsi tukarPointer3 memanfaatkan pass by pointer yang menerima alamat memori variabel dan melakukan penukaran nilai melalui dereference operator *. Di dalam fungsi utama, nilai x, y, dan z ditukar bertahap menggunakan kedua pendekatan tersebut.
@@ -420,10 +424,12 @@ int main() {
 
 ##### Output 1
 
+<img width="320" height="752" alt="Soal3_1" src="https://github.com/user-attachments/assets/457bac7e-7d79-4811-8e45-95cca1c2cb9e" />
 
 
 ##### Output 2
 
+<img width="327" height="727" alt="Soal3_2" src="https://github.com/user-attachments/assets/96868e36-af7a-4e84-821d-ea65104b7ed1" />
 
 
 Kode ini mengimplementasikan pemrosesan array satu dimensi menggunakan kombinasi fungsi, prosedur, dan menu interaktif. Fungsi cariMaksimum dan cariMinimum melakukan iterasi pada elemen array untuk mengembalikan nilai tertinggi dan terendah. Prosedur hitungRataRata memanfaatkan metode pass by reference melalui parameter &rata, sehingga hasil kalkulasi rata-rata langsung memperbarui variabel rataRata di dalam fungsi utama main untuk ditampilkan. Seluruh alur program dikendalikan oleh menu interaktif berbasis perulangan do-while dan percabangan switch-case.
