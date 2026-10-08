@@ -182,10 +182,12 @@ int main() {
 
 ##### Output 1
 
+<img width="1736" height="708" alt="Soal1_1" src="https://github.com/user-attachments/assets/b904411b-4d44-4cbe-8893-835b7ed18120" />
 
 
 ##### Output 2
 
+<img width="1625" height="497" alt="Soal1_2" src="https://github.com/user-attachments/assets/a3eae2a8-36a1-4d19-a187-b5f034e88408" />
 
 
 Program ini menggunakan array dari tipe data struktur untuk menyimpan sekumpulan data mahasiswa beserta kalkulasi nilai akhirnya secara terorganisir. Proses pengisian data pada setiap elemen array dilakukan melalui parameter reference agar perubahan memori langsung tersimpan pada variabel utama. Setelah batas jumlah mahasiswa yang ditentukan selesai diinput, program menggunakan perulangan untuk mencetak seluruh rekapitulasi data tersebut ke layar secara berurutan.
@@ -253,10 +255,12 @@ int main() {
 
 ##### Output 1
 
+<img width="1560" height="140" alt="Soal2_1" src="https://github.com/user-attachments/assets/208fce6c-fe97-468f-b143-141a810d95ae" />
 
 
 ##### Output 2
 
+<img width="1552" height="202" alt="Soal2_2" src="https://github.com/user-attachments/assets/f28e6129-e924-4225-9600-dd8e337192db" />
 
 
 Program ini mengimplementasikan tipe data abstrak dengan memisahkan kerangka struktur dan prototipe fungsinya ke dalam file tajuk terpisah. Fungsi pembuatan data bertugas menerima dua argumen teks untuk menyusun objek pelajaran baru yang kemudian dikembalikan sebagai nilai utuh ke program utama. Objek tersebut selanjutnya dikirim menuju prosedur penampilan yang akan mengekstrak serta mencetak atribut nama dan kode pelajaran ke layar sesuai format yang diminta.
@@ -341,10 +345,12 @@ int main() {
 
 ##### Output 1
 
+<img width="1641" height="557" alt="Soal3_1" src="https://github.com/user-attachments/assets/76bf1008-8c85-46bc-870d-7d842476d530" />
 
 
 ##### Output 2
 
+<img width="1522" height="536" alt="Soal3_2" src="https://github.com/user-attachments/assets/8faac01c-b4e8-41b8-8056-77bc115ed595" />
 
 
 Program ini memisahkan deklarasi dan implementasi fungsi manipulasi matriks serta penunjuk memori ke dalam tiga berkas berbeda yaitu tajuk dan sumber utama. Berkas antarmuka mendefinisikan prototipe prosedur pencetakan array dan pertukaran nilai yang kemudian logika pemrosesannya dijabarkan secara rinci pada berkas implementasi. Berkas utama selanjutnya bertugas menginisialisasi matriks dan variabel penunjuk memori untuk dieksekusi menggunakan modul yang telah diimpor tersebut.
