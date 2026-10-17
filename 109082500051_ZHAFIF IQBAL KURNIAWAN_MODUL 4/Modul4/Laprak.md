@@ -401,10 +401,12 @@ int main() {
 
 ##### Output 1
 
+<img width="942" height="145" alt="soal_1" src="https://github.com/user-attachments/assets/d943c1b7-bb9b-48c0-8f69-2989c0620eb4" />
 
 
 ##### Output 2
 
+<img width="983" height="181" alt="soal_2" src="https://github.com/user-attachments/assets/28145189-9298-4436-9af8-d956f462a89d" />
 
 
 Kode tersebut bekerja dengan cara memisahkan kerangka struktur data senarai berantai pada berkas antarmuka dan instruksi pemrosesannya pada berkas sumber terpisah. Program utama mengeksekusi kerangka tersebut dengan mengalokasikan lima ruang memori dinamis secara berurutan untuk menyimpan sekumpulan bilangan bulat. Seluruh bilangan bulat tersebut dimasukkan menggunakan metode penyisipan awal sehingga nilai yang terakhir kali ditambahkan akan selalu bergeser menempati urutan paling depan saat dicetak ke layar.
