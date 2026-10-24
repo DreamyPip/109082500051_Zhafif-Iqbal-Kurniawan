@@ -699,10 +699,12 @@ int main()
 
 ##### Output 1
 
+<img width="908" height="208" alt="Soal_1" src="https://github.com/user-attachments/assets/32852b37-c17a-4330-a579-97ca904d04d2" />
 
 
 ##### Output 2
 
+<img width="711" height="138" alt="Soal_2" src="https://github.com/user-attachments/assets/550888bd-ad19-470f-bf68-0cee04bf2105" />
 
 
 Program ini mengawali kerjanya dengan membuat senarai berantai kosong, lalu mengalokasikan lima bilangan bulat secara berurutan ke dalam memori. Karena setiap bilangan tersebut disisipkan menggunakan metode penyisipan awal (insertFirst), posisi elemen yang masuk paling akhir akan bergeser menjadi yang pertama, sehingga urutannya terbalik saat dicetak ke layar. Setelah struktur senarai terbentuk, program melakukan penelusuran dari simpul paling depan untuk mencari keberadaan angka 8. Terakhir, program menelusuri senarai tersebut sekali lagi untuk menjumlahkan seluruh isi elemennya hingga mendapatkan total kalkulasi 31.
