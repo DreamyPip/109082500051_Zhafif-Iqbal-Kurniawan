@@ -876,10 +876,12 @@ int main() {
 
 ##### Output 1
 
+<img width="1197" height="817" alt="Soal_1" src="https://github.com/user-attachments/assets/c19b2147-bc05-4aed-8d86-aeb158d63c8d" />
 
 
 ##### Output 2
 
+<img width="676" height="922" alt="Soal_2" src="https://github.com/user-attachments/assets/2a5190ca-53f2-4c8d-9667-8803fdb15a20" />
 
 
 program menyiapkan senarai kosong dan memproses data kendaraan yang dimasukkan pengguna. Saat data masuk, program otomatis mengecek nomor polisinya untuk memastikan tidak ada data yang ganda. Jika belum terdaftar, data baru ini langsung ditaruh di posisi paling depan sehingga akan muncul di urutan teratas saat dicetak ke layar. Setelah semua data tampil, program menunjukkan cara mencari detail kendaraan tertentu, lalu menghapusnya dengan cara melepas kaitan penunjuk arah dari data di sekitarnya dan membebaskan memori tersebut
