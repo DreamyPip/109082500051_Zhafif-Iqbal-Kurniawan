@@ -664,6 +664,7 @@ int main() {
 
 ##### Output 1
 
+<img width="1232" height="417" alt="Soal" src="https://github.com/user-attachments/assets/f5b6d644-069c-4cda-886c-9ee18e128a14" />
 
 
 Program ini menguji tiga skenario tumpukan berbasis array secara berurutan. Pertama, program mendemonstrasikan cara menambah dan mengambil data paling atas, lalu membalik urutannya memakai tumpukan sementara. Kedua, data disisipkan agar otomatis tersusun urut, dan terakhir program membaca deretan angka ketikan pengguna hingga tombol enter ditekan untuk disimpan ke dalam tumpukan lalu dibalik kembali
