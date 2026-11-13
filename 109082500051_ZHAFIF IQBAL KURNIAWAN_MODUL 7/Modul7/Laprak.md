@@ -664,10 +664,12 @@ int main() {
 
 ##### Output 1
 
+<img width="1015" height="365" alt="Soal_1" src="https://github.com/user-attachments/assets/785c034d-b434-4c28-afd9-4576970935da" />
 
 
 ##### Output 2
 
+<img width="1047" height="361" alt="Soal_2" src="https://github.com/user-attachments/assets/4eebc7ba-9a3e-4c96-811c-96fbae63a239" />
 
 
 Program ini menguji tiga skenario tumpukan berbasis array secara berurutan. Pertama, program mendemonstrasikan cara menambah dan mengambil data paling atas, lalu membalik urutannya memakai tumpukan sementara. Kedua, data disisipkan agar otomatis tersusun urut, dan terakhir program membaca deretan angka ketikan pengguna hingga tombol enter ditekan untuk disimpan ke dalam tumpukan lalu dibalik kembali
