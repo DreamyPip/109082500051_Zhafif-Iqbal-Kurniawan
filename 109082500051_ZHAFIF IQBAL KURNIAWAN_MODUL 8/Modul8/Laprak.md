@@ -652,10 +652,12 @@ int main() {
 
 ##### Output 1
 
+<img width="852" height="298" alt="Soal_1" src="https://github.com/user-attachments/assets/ab3359de-0290-4b68-b1fa-ba86cccfa8e9" />
 
 
 ##### Output 2
 
+<img width="742" height="496" alt="Soal_2" src="https://github.com/user-attachments/assets/706506f4-42ea-4295-ae6b-d88936319e66" />
 
 
 Program ini menjalankan simulasi antrean berbasis array lima elemen menggunakan tiga mekanisme berbeda secara berurutan. Alternatif 1 selalu menggeser sisa data ke depan tiap ada elemen keluar, Alternatif 2 memajukan posisi head dan baru menggeser data saat mentok di ujung array, sedangkan Alternatif 3 memutar indeks head dan tail kembali ke awal tanpa perlu menggeser data sama sekali.
