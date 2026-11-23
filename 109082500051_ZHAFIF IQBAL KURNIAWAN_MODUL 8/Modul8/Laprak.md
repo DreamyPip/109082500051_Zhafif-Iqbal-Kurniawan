@@ -397,7 +397,7 @@ Program ini membuat antrean array berkapasitas lima nama dengan posisi head diam
 ## Unguided
 
 ### 1. (isi dengan soal unguided 1)
-## stack.h
+## queue.h
 
 ```C++
 #ifndef QUEUE_H
@@ -435,7 +435,7 @@ void printInfoAlt3(Queue Q);
 
 #endif
 ```
-## stack.cpp
+## queue.cpp
 
 ```C++
 #include "queue.h"
