@@ -732,6 +732,7 @@ int main() {
 
 ##### Output 1
 
+<img width="947" height="221" alt="Soal" src="https://github.com/user-attachments/assets/8f68eeaa-fd04-489e-ad2c-4787bcd1226c" />
 
 
 Program ini membangun struktur Binary Search Tree (BST) berbasis pointer dengan memasukkan deretan angka secara rekursif, di mana nilai lebih kecil diarahkan ke cabang kiri, nilai lebih besar ke cabang kanan, dan angka duplikat otomatis diabaikan. Setelah pohon terbentuk, program menampilkan isi simpul melalui traversal In-order, Pre-order, dan Post-order, lalu menghitung kedalaman pohon, jumlah simpul, serta total seluruh nilainya.
